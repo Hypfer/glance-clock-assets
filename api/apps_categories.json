@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "data": [
+        {
+            "id": "general",
+            "name": "General",
+            "slug": "general"
+        },
+        {
+            "id": "weather",
+            "name": "Weather",
+            "slug": "weather"
+        },
+        {
+            "id": "fitness_wellness",
+            "name": "Fitness & Wellness",
+            "slug": "fitness_wellness"
+        },
+        {
+            "id": "news",
+            "name": "News",
+            "slug": "news"
+        },
+        {
+            "id": "productivity",
+            "name": "Productivity",
+            "slug": "productivity"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "status": "OK",
+    "data": [
+        {
+            "id": "date_time",
+            "recommended": false,
+            "slug": "date_time",
+            "clockface": true,
+            "categories": [
+                "general"
+            ],
+            "available_ios": true,
+            "available_android": true,
+            "logo_url": "http://ota.glanceclock.com/static/time.png",
+            "description": "The Date & Time app allows you to chose digital time, date, or weekday that will be showing on Glance clock face as well as activate beautiful lights that represent twelve hours.",
+            "name": "Date & Time"
+        },
+        {
+            "id": "countdown_timer",
+            "recommended": false,
+            "slug": "countdown_timer",
+            "clockface": false,
+            "categories": [
+                "general",
+                "productivity"
+            ],
+            "available_ios": true,
+            "available_android": true,
+            "logo_url": "http://ota.glanceclock.com/static/timer.png",
+            "description": "The Timer app features a bright green, blue or red line relate to the seconds, minutes and hours which disappears as time goes by. It works perfectly for productive work, cooking, meetings,  or gym. ",
+            "name": "Timer"
+        },
+        {
+            "id": "interval_timer",
+            "recommended": false,
+            "slug": "interval_timer",
+            "clockface": false,
+            "categories": [
+                "productivity"
+            ],
+            "available_ios": true,
+            "available_android": true,
+            "logo_url": "http://ota.glanceclock.com/static/timer.png",
+            "description": "The Interval Timer app gives you the convenience of setting multiple timers that grouped in one. With Interval Timer on Glance clock, you can set up to 16 intervals that can go one next to another or loop several time intervals in one set. Pre-installed Tabata and Pomodoro timers are available in the app.",
+            "name": "Interval Timer"
+        },
+        {
+            "id": "calls",
+            "recommended": false,
+            "slug": "calls",
+            "clockface": false,
+            "categories": [
+                "general",
+                "productivity"
+            ],
+            "available_ios": true,
+            "available_android": true,
+            "logo_url": "http://ota.glanceclock.com/static/phone.png",
+            "description": "See who is calling right on the Glance сlock face.",
+            "name": "Calls"
+        },
+        {
+            "id": "alarm",
+            "recommended": false,
+            "slug": "alarm",
+            "clockface": false,
+            "categories": [
+                "general"
+            ],
+            "available_ios": true,
+            "available_android": true,
+            "logo_url": "http://ota.glanceclock.com/static/Alarm.png",
+            "description": "Having problems waking up in a morning? Alarm clock app allows to set up to four alarms with different sounds and wake-up phrases.",
+            "name": "Alarm Clock"
+        },
+        {
+            "id": "google_calendar",
+            "recommended": true,
+            "slug": "google_calendar",
+            "clockface": true,
+            "categories": [
+                "productivity"
+            ],
+            "oAuth": true,
+            "oAuthUrl": "/api/oauth2/integrations/google_calendar?user_access_token=7c1ae41f3e0d3bb1f4427d925a933e46190fdddf",
+            "connected": false,
+            "login": null,
+            "available_ios": true,
+            "available_android": true,
+            "logo_url": "http://ota.glanceclock.com/static/GoogleCal.png",
+            "description": "Connect your Google calendar to Glance clock and see the whole picture of your day on the clock face. Glance clock will notify you about upcoming events by following notifications which you've set in an event settings. Every hour recurring or at a particular time Glance clock will show you a calendar events digest for the next twelve hours.",
+            "name": "Google Calendar"
+        },
+        {
+            "id": "outlook_calendar",
+            "recommended": false,
+            "slug": "outlook_calendar",
+            "clockface": true,
+            "categories": [
+                "productivity"
+            ],
+            "available_ios": false,
+            "available_android": false,
+            "logo_url": "http://ota.glanceclock.com/static/Outlook.png",
+            "description": "Connect your Outlook calendar to Glance clock and see the whole picture of your day on the clock face. Glance clock will notify you about upcoming events by following notifications which you've set in an event settings. Every hour recurring or at a particular time Glance clock will show you a calendar events digest for the next twelve hours.",
+            "name": "Outlook Calendar"
+        },
+        {
+            "id": "apple_calendar",
+            "recommended": false,
+            "slug": "apple_calendar",
+            "clockface": true,
+            "categories": [
+                "productivity"
+            ],
+            "available_ios": false,
+            "available_android": true,
+            "logo_url": "http://ota.glanceclock.com/static/iCal.png",
+            "description": "Connect your Apple calendar to Glance clock and see the whole picture of your day on the clock face. Glance clock will notify you about upcoming events by following notifications which you've set in an event settings. Every hour recurring or at a particular time Glance clock will show you a calendar events digest for the next twelve hours.",
+            "name": "Apple Calendar"
+        },
+        {
+            "id": "weather",
+            "recommended": true,
+            "slug": "weather",
+            "clockface": true,
+            "categories": [
+                "weather"
+            ],
+            "available_ios": true,
+            "available_android": true,
+            "logo_url": "http://ota.glanceclock.com/static/weather.png",
+            "description": "The weather forecast on your Glance clock looks beautiful yet informative. With a twelve hours forecast for temperature or chance of rain always sowing on clock face as a bar-diagram and text you will always know what are weather conditions how and when they will be changed. Notifications about current weather conditions including wind speed, humidity level, feels like temperature, air pressure and more will appertains on Glance clock face every hour recurring or at the particular time.",
+            "name": "Weather"
+        },
+        {
+            "id": "ifttt",
+            "recommended": true,
+            "slug": "ifttt",
+            "clockface": false,
+            "categories": [
+                "general"
+            ],
+            "oAuth": true,
+            "oAuthUrl": "/api/oauth2/3rd_party/ifttt?user_access_token=7c1ae41f3e0d3bb1f4427d925a933e46190fdddf",
+            "connected": false,
+            "login": null,
+            "available_ios": true,
+            "available_android": true,
+            "logo_url": "http://ota.glanceclock.com/static/IFTTT.png",
+            "description": "With IFTTT, Glance Clock can display information from lots of web-services and smart home devices, that have IFTTT channels. Check the ifttt.com/glanceclock page to find out more",
+            "name": "IFTTT"
+        }
+    ]
+}
