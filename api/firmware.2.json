@@ -1,1 +1,18 @@
-{"status":"OK","data":{"type":"release","releaseDate":1540994909213,"changelog":"","version":"1.5.10","blVersion":"0.17","sdVersion":"8C","url":"http://ota.glanceclock.com/production/glance_firmware_full_0503029A0011008C0105000A.zip"},"hw_major":5,"hw_minor":3,"app_major":0,"app_minor":8,"app_build":3,"model":666}
+{
+  "status": "OK",
+  "data": {
+    "type": "release",
+    "releaseDate": 1540994909213,
+    "changelog": "",
+    "version": "1.5.10",
+    "blVersion": "0.17",
+    "sdVersion": "8C",
+    "url": "http://ota.glanceclock.com/production/glance_firmware_full_0503029A0011008C0105000A.zip"
+  },
+  "hw_major": 5,
+  "hw_minor": 3,
+  "app_major": 0,
+  "app_minor": 8,
+  "app_build": 3,
+  "model": 666
+}

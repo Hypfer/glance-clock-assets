@@ -7,12 +7,12 @@
     "version": "1.5.9",
     "blVersion": "0.17",
     "sdVersion": "8C",
-    "url": "http://ota.glanceclock.com/production/glance_firmware_app_0601029A0011008C01050009.zip"
+    "url": "http://ota.glanceclock.com/production/glance_firmware_full_0601029A0011008C01050009.zip"
   },
   "hw_major": 6,
   "hw_minor": 1,
   "app_major": 1,
   "app_minor": 4,
-  "app_build": 47,
+  "app_build": 2,
   "model": 666
 }
