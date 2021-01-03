@@ -1,0 +1,18 @@
+{
+  "status": "OK",
+  "data": {
+    "type": "release",
+    "releaseDate": 1605706268557,
+    "changelog": "Calendar ACF screen lists upcoming events",
+    "version": "1.6.7",
+    "blVersion": "0.18",
+    "sdVersion": "8c",
+    "url": "https://ota.glanceclock.com/production/glance_firmware_full_0601029A0012008c01060007.zip"
+  },
+  "hw_major": 6,
+  "hw_minor": 1,
+  "app_major": 1,
+  "app_minor": 4,
+  "app_build": 47,
+  "model": 666
+}
